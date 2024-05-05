@@ -16,5 +16,5 @@ int main() {
 
     drawTriangle(n);
 
-    return 0;
+    
 }
